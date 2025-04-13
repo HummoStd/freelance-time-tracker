@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDZmAY3VwLG9XDYbunDYNbZnn8htDMNw98",
+  apiKey: "AIzaSyAE7SHoHj6DrKIaivvequfYgWN2gobobyM",
   authDomain: "freelancetimetracker-4e429.firebaseapp.com",
   projectId: "freelancetimetracker-4e429",
   storageBucket: "freelancetimetracker-4e429.appspot.com",
